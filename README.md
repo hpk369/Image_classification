@@ -1,1 +1,1 @@
-# Image Recognition
+# Image Classification
